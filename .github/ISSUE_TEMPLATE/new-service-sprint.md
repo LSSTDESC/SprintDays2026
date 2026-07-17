@@ -15,7 +15,7 @@ Contacts:
 Day/Time: 
 Main communication channel:
 GitHub repo:
-Zoom room (if applicable):
+Zoom room: Join the DESC Plenary Zoom listed [here](https://confluence.slac.stanford.edu/x/wYd4KQ) and join the breakout room corresponding to this issue number.
 
 ## Goals and deliverable
 
